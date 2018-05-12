@@ -1,0 +1,47 @@
+_repo: WestminsterThe-Fascination-of-London_21648
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21648-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Mitton, G. E. (Geraldine Edith)
+    alias: Mitton, Geraldine Edith
+    birthdate: 1868
+    deathdate: 1955
+    gutenberg_agent_id: '9224'
+    url: http://www.gutenberg.org/2009/agents/9224
+    wikipedia: https://en.wikipedia.org/wiki/Geraldine_Mitton
+  - agent_name: Smith, A. Murray, Mrs.
+    aliases:
+    - Smith, Emily Tennyson Bradley
+    - Smith, Mrs. A. Murray
+    gutenberg_agent_id: '24831'
+    url: http://www.gutenberg.org/2009/agents/24831
+  - agent_name: Besant, Walter
+    aliases:
+    - Besant, Sir Walter
+    - Maurice, Walter
+    birthdate: 1836
+    deathdate: 1901
+    gutenberg_agent_id: '5404'
+    url: http://www.gutenberg.org/2009/agents/5404
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2007-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21648'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Westminster (London, England) -- Description and travel'
+- !lcc 'DA'
+tableOfContents: "Westminster.\r\nThe Strand District.\r\nHampstead.\r\nChelsea."
+title: 'Westminster
+
+  The Fascination of London'
+url: http://www.gutenberg.org/ebooks/21648
