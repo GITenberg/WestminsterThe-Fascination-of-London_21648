@@ -42,6 +42,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Westminster (London, England) -- Description and travel'
 - !lcc 'DA'
+- GITenberg
 tableOfContents: "Westminster.\r\nThe Strand District.\r\nHampstead.\r\nChelsea."
 title: 'Westminster
 
